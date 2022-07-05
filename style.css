@@ -1,5 +1,6 @@
 body {
     font-family: 'Arima', cursive;
+    margin: 0;
 }
 
 h1 {
@@ -16,15 +17,17 @@ h2 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .aligning {
     width: 50%;
-    padding: 5%;
+    padding: 3%;
+
 }
 
 .aligning img {
-    width: 80%;
+    width: 90%;
 }
 
 .link-button {
@@ -35,4 +38,16 @@ section {
     font-weight: 700;
     border-radius: 5px;
 
+}
+
+.first {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.second {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-bottom: 350px;
 }
