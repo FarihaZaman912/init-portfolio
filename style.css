@@ -15,9 +15,9 @@ h2 {
     color: blue;
 }
 
-section {
+.flexible {
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 90px;
 }
 
 .aligning {
@@ -49,5 +49,5 @@ section {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    padding-bottom: 350px;
+
 }
