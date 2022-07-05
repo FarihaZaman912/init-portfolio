@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arima', cursive;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 33px;
+}
+
+.coloring {
+    color: blue;
+}
+
+section {
+    display: flex;
+}
+
+.aligning {
+    width: 50%;
+    padding: 5%;
+}
+
+.aligning img {
+    width: 80%;
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange, orangered);
+    font-weight: 700;
+    border-radius: 5px;
+
+}
