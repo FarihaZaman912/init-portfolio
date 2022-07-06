@@ -51,3 +51,34 @@ h2 {
     background-position: right;
 
 }
+
+.ex-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 20px tomato;
+
+}
+
+.coloring-new {
+    color: orangered;
+}
+
+.ex-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#bordering {
+    border-left: 10px solid tomato;
+}
+
+#bordering-another {
+    border-left: 10px solid blue;
+}
+
+footer {
+    text-align: center;
+}
